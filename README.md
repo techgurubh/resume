@@ -72,9 +72,9 @@ npm run dev
 # http://localhost:5173
 ```
 
-      https://techgurubh.github.io/resume-builder/
-
 ---
+
+https://techgurubh.github.io/resume-builder/
 
 ## 🖨️ Print / Export PDF
 
